@@ -1,0 +1,341 @@
+.index-body{
+    width:1600px;
+    Height: 2410px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-family: 'Roboto';
+}
+
+a{
+    text-decoration: none;
+    color: #FFF;
+}
+
+a:hover{
+    color: #2196F3;
+}
+
+li{
+    list-style-type: none;
+}
+
+.nav-header{ 
+    letter-spacing: 0.02em;
+    padding: 30px 15px;
+    margin: auto;
+    width: 1570px;
+    height: 65px;
+}
+
+.nav-header li{
+    display: inline-block;
+    padding: 7px 5px;
+    cursor: pointer;
+    font-weight: 500;
+}
+
+.WebStudioLogo1{
+    margin-left: 200px;
+    margin-top: -10px;
+}
+
+.estudio{
+    color: #212121;
+    padding-left:93px;
+}
+
+.portafolio{
+    color: #212121;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.contacto{
+    color: #212121;
+}
+
+.mailto{
+    padding-left: 340px;
+    color: #757575;
+}
+
+.tel{
+    padding-left: 50px;
+    color: #757575;
+}
+
+.rectangle{
+    display: flex;
+    color: #2F303A;
+    background-color: #2F303A;
+    width: 1600px;
+    height: 600px;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column;
+}
+
+.soluciones-heading{
+    display: flex;
+    width: 620px;
+    height: 120px;
+    text-align: center;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 60px;
+    background-color: #2F303A;
+    color: #ffff;
+    margin-bottom: 30px;
+}
+
+.soluciones-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 261px;
+    height: 50px;
+    background-color: #2196F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    color: #fff;
+    border-color: #2F303A;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.values-grid{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    column-gap: 30px;
+    margin-left: 215px;
+    margin-bottom: 150px;
+    width: 270px;
+    height: 75px;
+    margin-top: 100px; 
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+h3{
+    width: 270px;
+    height: 16px;
+    size: 14px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+
+.dedicamos-heading{
+    margin-left: 630px;
+    margin-bottom: 55px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    letter-spacing: 0.03em;
+}
+
+.dedicamos-pictures{
+    margin-left: 215px;
+    margin-bottom: 94px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    column-gap: 23px;
+}
+
+.equipo-background{
+    width: 1600px;
+    height: 648px;
+    background-color: #F5F4FA;
+}
+
+.equipo-heading{
+    padding: 94px 0px 0px 700px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    letter-spacing: 0.03em;
+}
+.equipo-grid{
+    display: grid;
+    height: 368px;
+    width: 897px;
+    grid-template-columns: auto auto auto auto;
+    column-gap: 37px;
+    margin-top: 50px;
+    margin-left: 208px;
+    margin-bottom: 0px;
+    padding: 0%;
+}
+
+.equipo-figure{
+    margin: 0%;
+    height: 368px;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 0px 0px 4px 4px;
+}
+
+.equipo-caption{
+    text-align: center;
+    padding: 30px 0px 0px 0px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.equipo-caption-job{
+    font-weight: 400;
+    color: #757575;
+}
+
+.footer-rectangle{
+    background-color: #2F303A;
+    width: 1600px;
+    height: 252px;
+}
+
+.footer-info{
+    display: flex;
+    height: 150px;
+    width: 231px; 
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding: 60px 0px 0px 215px;
+    margin: 0%;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.footer-address{
+    color: #fff;
+    font-style: normal;
+}
+
+.portafolio-body{
+    width:1600px;
+    Height: 2024px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-family: 'Roboto';
+}
+
+.ul-header{
+    display: flex;
+    font-weight: 500;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.envelop{
+    padding-left: 314px;
+}
+
+.mailto3{
+    color: #757575;
+}
+
+.tel3{
+    padding-left: 0%;
+    color: #757575;
+}
+
+.cellphone{
+    padding-left: 30px;
+}
+
+.line{
+    border-top: 1px solid #ececec;
+    height: 2px;
+    padding: 0;
+    margin: auto auto 106px auto;
+
+}
+
+.nav-buttons{
+    margin-left: 495px;
+    margin-bottom: 50px;
+}
+
+.ul-buttons{
+    display: flex;
+    justify-content: space-between;
+    width: 700px;
+    height: 38px;
+    padding-left: 0px;
+}
+
+.ul-buttons li{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    cursor: pointer;
+    height: 38px;
+    width: 120px;
+    border-radius: 4px;
+    background-color: #F5F4FA;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.ul-buttons li:hover{
+    background-color: #2196F3;
+    color:#FFF;
+}
+
+.pictures-grid{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: space-evenly;
+    column-gap: 30px;
+    row-gap: 30px;
+    height: 1400px;
+    margin-bottom: 82px;
+}
+
+.pictures-photos{
+    background: #FFFFFF;
+    border: 1px solid #EEEEEE;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06), 1px 4px 6px rgba(0, 0, 0, 0.16);
+}
+
+.pictures-title{
+    
+    width: 320px;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 36px;
+    padding: 20px 0px 0px 24px;
+    color: #212121;
+    margin: 0px 0px 0px 0px;
+    letter-spacing: 0.06em;
+}
+
+.pictures-description{
+    padding: 4px 0px 0px 24px;
+    font-weight: 400;
+    color: #757575;
+    letter-spacing: 0.06em;
+}
+
+
+
